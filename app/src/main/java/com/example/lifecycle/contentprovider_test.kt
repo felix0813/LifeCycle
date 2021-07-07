@@ -1,6 +1,6 @@
 package com.example.lifecycle
 
-import android.database.Cursor
+
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
